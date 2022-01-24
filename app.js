@@ -83,7 +83,7 @@ const menu = [
   },
   {
     id: 11,
-    title: 'steak dinner',
+    title: 'vamsi',
     category: 'dinner',
     price: 39.99,
     img: './images/item-10.jpeg',
