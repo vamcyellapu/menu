@@ -81,6 +81,14 @@ const menu = [
     img: './images/item-10.jpeg',
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
+  {
+    id: 11,
+    title: 'steak dinner',
+    category: 'dinner',
+    price: 39.99,
+    img: './images/item-10.jpeg',
+    desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+  },
 ];
 const menuItems = document.querySelector('.menu-items');
 const btnContainer = document.querySelector('.btn-container');
